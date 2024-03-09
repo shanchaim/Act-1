@@ -1,0 +1,18 @@
+.circle-image {
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+}
+.circle-container {
+    text-align: center;
+}
+.circle-item {
+    display: inline-block;
+    margin: 0 20px;
+    margin-top: 250px;
+    vertical-align: top;
+    text-align: center; 
+}
+.image-title {
+    text-align: center;
+}
